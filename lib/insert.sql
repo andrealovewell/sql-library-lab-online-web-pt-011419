@@ -1,5 +1,5 @@
 
-    
+
 INSERT INTO Series (title, author_id, subgenre_id) VALUES ("Harry Potter", 1, 1);
 INSERT INTO Series (title, author_id, subgenre_id) VALUES ("Lord of the Rings", 2, 2);
 
@@ -41,4 +41,3 @@ INSERT INTO character_books (character_id, book_id) VALUES (5, 4);
 INSERT INTO character_books (character_id, book_id) VALUES (5, 5);
 INSERT INTO character_books (character_id, book_id) VALUES (5, 6);
 INSERT INTO character_books (character_id, book_id) VALUES (6, 4);
-
